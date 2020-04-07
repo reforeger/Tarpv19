@@ -10,7 +10,11 @@ namespace Tarpv19
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow ward");
+            Console.WriteLine("Pls Enter your name: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hellow " + name + "!");
+
+
 
             Console.ReadLine();
         }
