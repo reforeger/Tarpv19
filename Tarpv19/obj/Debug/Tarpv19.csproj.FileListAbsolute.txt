@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\bin\Debug\Tarpv19.exe.config
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\bin\Debug\Tarpv19.exe
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\bin\Debug\Tarpv19.pdb
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\obj\Debug\Tarpv19.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\obj\Debug\Tarpv19.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\obj\Debug\Tarpv19.exe
+C:\Users\ADMIN\source\repos\Tarpv19\Tarpv19\obj\Debug\Tarpv19.pdb
