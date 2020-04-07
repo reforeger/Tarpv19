@@ -12,10 +12,12 @@ namespace Tarpv19
         {
             Console.WriteLine("Pls Enter your name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Hellow " + name + "!");
 
+            //Console.WriteLine("Hello " + name + "!");
 
+            //string interpolation
 
+            Console.WriteLine($"Hello, {name}!");
             Console.ReadLine();
         }
     }
